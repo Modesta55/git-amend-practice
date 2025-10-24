@@ -1,0 +1,1 @@
+# add: Logout feature implementation details
